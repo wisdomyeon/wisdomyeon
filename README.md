@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **wisdomyeon/wisdomyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=D3CEDF&height=240&section=header&text=WECOME!&fontSize=90&fontColor=F9F9F9)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:D3CEDF,70:F2D7D9&height=240&section=header&text=WECOME!&fontSize=90&fontColor=F9F9F9)
+### Hi there 👋
