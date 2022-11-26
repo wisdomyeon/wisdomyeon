@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:D3CEDF,70:F2D7D9&height=240&section=header&text=WISDOMYEON&fontSize=90&fontColor=F9F9F9)
-### Hi there 👋
+
+<img width="50%" src="https://user-images.githubusercontent.com/104718714/204095003-1061705f-d795-4a97-8d8e-8d0ead5e9b14.jpg"/>
+### SNS 계정
+
+ <img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+ <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+
