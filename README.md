@@ -1,22 +1,15 @@
-<!--
-**wisdomyeon/wisdomyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**wisdomyeon/wisdomyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:D3CEDF,800:F2D7D9&height=200&section=header&text=WISDOMYEON&fontSize=70&fontColor=F9F9F9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:D3CEDF,70:F2D7D9&height=240&section=header&text=WISDOMYEON&fontSize=90&fontColor=F9F9F9)
 
-<img width="50%" src="https://user-images.githubusercontent.com/104718714/204095003-1061705f-d795-4a97-8d8e-8d0ead5e9b14.jpg"/>
-### SNS 계정
+<div align="center">
+ <img width="50%" src="https://user-images.githubusercontent.com/104718714/204095003-1061705f-d795-4a97-8d8e-8d0ead5e9b14.jpg"/>
+ <h3 align="center">:sparkles: Look at Me! :sparkles:</h3>
+ <a href="https://wisdomyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+ <a href="https://instagram.com/wisdomyeon?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
 
- <img src="https://img.shields.io/badge/Tstory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
- <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:D3CEDF,50:F2D7D9&height=230&section=footer)
+
 
